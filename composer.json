@@ -1,0 +1,14 @@
+{
+    "name": "ritwiknath/corephpjwtexample",
+    "description": "a simple examplefor core php implementation with php",
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    },
+    "license": "1",
+    "authors": [
+        {
+            "name": "Raktim Nath",
+            "email": "raktimnath3@gmail.com"
+        }
+    ]
+}
