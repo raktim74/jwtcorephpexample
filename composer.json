@@ -2,7 +2,7 @@
     "name": "ritwiknath/corephpjwtexample",
     "description": "a simple examplefor core php implementation with php",
     "require": {
-        "firebase/php-jwt": "^5.2"
+        "firebase/php-jwt": "^6.0"
     },
     "license": "1",
     "authors": [
